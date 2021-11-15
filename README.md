@@ -1,10 +1,10 @@
-![](https://komarev.com/ghpvc/?username=7qo&label=PROFILE+VIEWS)
+   ![](https://komarev.com/ghpvc/?username=7qo&label=PROFILE+VIEWS)
 
 ```py
 from Github import ReadMe
 
 
-class 7qo(ReadMe):
+class Nell(ReadMe):
   "/7qo/7qo/README.md"
   
   def __init__(self):
