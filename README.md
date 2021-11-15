@@ -12,12 +12,12 @@ class 7qo(ReadMe):
     self.contact = {
       "Discord": "nell#2000"
       "Telegram": "t.me/abortionist"
-    }
+     }
      self.projects = {
       "public": {
         "total": 1,
         "location": "github.com/7qo?tab=repositories"
-       },
+      },
       "private": {
         "total": 2,
         "location": "discord.gg/punish"
