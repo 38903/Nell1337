@@ -5,22 +5,22 @@ from Github import ReadMe
 
 
 class Nell(ReadMe):
-  "/7qo/7qo/README.md"
+  "/Nell1337/Nell1337/README.md"
   
   def __init__(self):
     self.username = "nell"
     self.contact = {
-      "Discord": "nell#2000"
+      "Discord": "nell#1500"
       "Telegram": "t.me/abortionist"
      }
      self.projects = {
       "public": {
-        "total": 1,
-        "location": "github.com/7qo?tab=repositories"
+        "total": 420,
+        "location": "github.com/Nell1337?tab=repositories"
       },
       "private": {
         "total": 2,
-        "location": "discord.gg/punish"
+        "location": "discord.gg/lith"
     }
     self.os = "Windows"
 
